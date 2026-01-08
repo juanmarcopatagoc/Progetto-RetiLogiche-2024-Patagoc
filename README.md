@@ -1,5 +1,5 @@
 # Progetto di Reti Logiche 
-## 🇮🇹 Prova Finale del Corso di Reti Logiche – Politecnico di Milano, A.A. 2023/2024**
+## 🇮🇹 Prova Finale del Corso di Reti Logiche – Politecnico di Milano, A.A. 2023/2024
 **Votazione: 30/30L**
 
 ### Descrizione
